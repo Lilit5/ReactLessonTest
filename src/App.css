@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.yellowC {
+  background-color: yellow;
+}
+
+.redC {
+  background-color: red;
+}
+
+.component {
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+.componentPhne {
+  border: 2px solid red;
+  margin-bottom: 10px;
+}
